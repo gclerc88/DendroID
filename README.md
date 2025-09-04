@@ -1,6 +1,6 @@
 # DendroID
 Digital identification of wood grain pattern using a Siamese CNN
-Repository for the CAS_ML. Due to size restriction of this repository, only a part of the data are available. The complete dataset can be downloaded under Swiss Transfer Link (available for 30 days):
+Repository for the CAS_ML. Due to size restriction of this repository, only a part of the data are available. The complete set of images and the trained model can be downloaded under Swiss Transfer Link (available for 30 days):
 
 https://www.swisstransfer.com/d/c61910a8-13c4-4e61-8e25-74a03dbf22f7
 
